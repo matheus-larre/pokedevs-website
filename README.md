@@ -4,7 +4,7 @@
 
 ## 🔗 Demo
 
-Acesse o projeto ao vivo: **[https://matheus-larre.github.io/projeto-pokedevs/](https://matheus-larre.github.io/projeto-pokedevs/)**
+Acesse o projeto ao vivo: **[https://matheus-larre.github.io/projeto-pokedevs/](https://matheus-larre.github.io/pokedevs-website/)**
 
 ---
 
